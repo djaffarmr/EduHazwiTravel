@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\6 EduHazwiTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v4\\bg_white.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\6 EduHazwiTravel\\app\\src\\main\\res\\drawable-anydpi\\bg_white.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\6_EduHazwiTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v4\\bg_white.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\6_EduHazwiTravel\\app\\src\\main\\res\\drawable-anydpi\\bg_white.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\6 EduHazwiTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v4\\dot_inactive.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\6 EduHazwiTravel\\app\\src\\main\\res\\drawable-anydpi\\dot_inactive.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\6 EduHazwiTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v4\\dot_active.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\_released\\6 EduHazwiTravel\\app\\src\\main\\res\\drawable-anydpi\\dot_active.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\6_EduHazwiTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v4\\dot_active.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\6_EduHazwiTravel\\app\\src\\main\\res\\drawable-anydpi\\dot_active.xml"
+    },
+    {
+        "merged": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\6_EduHazwiTravel\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v4\\dot_inactive.xml",
+        "source": "B:\\AndroidStudioProjects\\MMBCTourAndTravel\\6_EduHazwiTravel\\app\\src\\main\\res\\drawable-anydpi\\dot_inactive.xml"
+    }
+]
